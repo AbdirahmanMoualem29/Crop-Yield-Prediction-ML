@@ -31,9 +31,7 @@ Our dataset includes:
 *List potential improvements or additional features that could be added to this project in the future.*
 
 ## Contributors
-- [Your Name](Your GitHub Profile Link) - *Project Owner*
+- [Abdirahman Moualem](AbdirahmanMoualem29) - *Project Owner*
 - [Collaborator's Name](Collaborator's GitHub Profile Link) - *Collaborator*
 
-## Acknowledgements
-*Here, you can give credit to data sources, papers you've referred to, or open-source tools you've used.*
 
