@@ -1,0 +1,6 @@
+matplotlib
+numpy
+gymnasium==0.27.0
+gym
+tensorflow
+pandas
