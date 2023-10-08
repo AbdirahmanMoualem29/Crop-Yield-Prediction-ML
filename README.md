@@ -8,8 +8,6 @@ With the unpredictable nature of climate change and its impact on agriculture, p
 Our dataset includes:
 
 - **Weather Data**: Historical records of temperature, rainfall, humidity, and sunshine hours.
-- **Soil Data**: Information on pH level, organic carbon content, phosphorus, potassium, and more.
-- **Agricultural Practices Data**: Details about fertilizer usage (type and quantity), pesticide usage, planting density, and crop rotation history.
 - **Historical Yield Data**: Past yields of the crop, serving as our target variable.
 
 ## Methodology
